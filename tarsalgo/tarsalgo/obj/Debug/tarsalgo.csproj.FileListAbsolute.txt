@@ -1,0 +1,6 @@
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\bin\Debug\tarsalgo.exe.config
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\bin\Debug\tarsalgo.exe
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\bin\Debug\tarsalgo.pdb
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\obj\Debug\tarsalgo.csprojAssemblyReference.cache
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\obj\Debug\tarsalgo.exe
+C:\Users\Krisztián\source\repos\tarsalgo\tarsalgo\obj\Debug\tarsalgo.pdb
